@@ -1,6 +1,6 @@
 <h1 font-size:40px align="center">GameTox</h1>
 
-This repository contains the data and code for our paper **<a href="https://aclanthology.org/2025.naacl-short.37/">GameTox: A Comprehensive Dataset and Analysis for Enhanced Toxicity Detection in Online Gaming Communities</a>** published at NAACL 2025.
+This repository contains the data for our paper **<a href="https://aclanthology.org/2025.naacl-short.37/">GameTox: A Comprehensive Dataset and Analysis for Enhanced Toxicity Detection in Online Gaming Communities</a>** published at NAACL 2025.
 
 ## Abstract
 
